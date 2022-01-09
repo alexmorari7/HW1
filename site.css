@@ -1,0 +1,10 @@
+ body {
+    margin: 50px;
+    font-family: Helvetica, sans-serif;
+    font-size: 150%;
+}
+ul {
+    font-size: large;
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
